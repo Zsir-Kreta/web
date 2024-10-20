@@ -18,7 +18,7 @@ function App() {
           <h2 className="text-center text-xl text-gray-600 mt-2">Legyen zsír a krétád!</h2>
         </header>
 
-        <main className="flex-grow flex flex-col items-center justify-center px-4">
+        <main className="flex-grow flex flex-col items-center justify-center px-4 mt-6">
           <p className="text-lg text-gray-700 text-center max-w-2xl">
             A Zsír!Kréta böngészőbővítmény segít abban, hogy könnyebben és hatékonyabban használd az Ovikrétát. Többé
             nem kell bosszankodnod, élvezd a gördülékeny használatot!
