@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 function App() {
   const [showAlert, setShowAlert] = useState(false);
@@ -41,7 +41,7 @@ function App() {
             <h3 className="text-3xl font-bold text-center text-blue-600 mb-8">Funkciók</h3>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {[
-                "Dialog bezárása mellé kattintáskor",
+                "Naplózás bezárása mellé kattintáskor",
                 "Átmásolás a hét többi napjára gomb hozzáadása a naplózás ablakokhoz",
                 "Csoportnapló megvalósultként való beállítása, mentés előtt",
                 "Dátum automatikus beállítása a kiválasztott hét alapján",
