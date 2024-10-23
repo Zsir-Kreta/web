@@ -89,10 +89,9 @@ const handleCloseAlert = () => {
             </main>
             <footer className="py-4 text-center text-sm text-gray-500">
                 © 2024 Zsír!Kréta - Minden jog fenntartva | Készítette:
-                <a href="https://smmest3r.dev/" className="text-blue-600 hover:underline" target="_blank"
-                   rel="noopener noreferrer">
-                    smmest3r.dev
-                </a>
+                <a href="https://smmest3r.dev/" className="text-blue-600 hover:underline" target="_blank"> smmest3r.dev </a>
+                | Forráskód: 
+                <a href="https://github.com/orgs/Zsir-Kreta/repositories" target="_blank" className="text-blue-600 hover:underline">Github</a>
             </footer>
         </div>
     );
